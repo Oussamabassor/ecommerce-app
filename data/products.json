@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Produit 1",
+        "price": 19.99,
+        "image": "product1.jpg",
+        "category": "electronique"
+    },
+    {
+        "id": 2,
+        "name": "Produit 1",
+        "price": 19.99,
+        "image": "product1.jpg",
+        "category": "electronique"
+    },
+    {
+        "id": 3,
+        "name": "Produit 1",
+        "price": 19.99,
+        "image": "product1.jpg",
+        "category": "electronique"
+    }
+]
